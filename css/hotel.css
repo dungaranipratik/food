@@ -1,0 +1,53 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: century gothic;
+}
+header{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/3.png);
+	background-size: cover;
+	background-position: center;
+	background-color: rgba(0,0,0,0.5);
+}
+.goodfood{
+	width: 1185px;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+.header{
+	background-color: rgba(0,0,0,0.7);
+	height: 170px;
+}
+.goodfood h1{
+	color: white;
+	font-size: 18px;
+	float: left;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+}
+.goodfood select{
+	float: right;
+	background-color: rgba(0,0,0,0);
+	color: white;
+	border: none;
+	font-size: 18px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+}
+.goodfood select option{
+	background-color:black;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+}
+.border{
+	border: 0.6px solid white;
+	margin-top: 40px;
+}
+.clear{
+	clear: both;
+}
+.goodfood img{
+	float: left;
+	margin-top: 10px;
+}
